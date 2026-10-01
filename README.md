@@ -15,53 +15,6 @@
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
-
-## 🚀 About Me
-
-- 🎓 I'm a **B.Tech Computer Science student** at Uttaranchal University.
-- 📊 Passionate about **Data Analytics, Data Visualization, and Machine Learning**.
-- 🐍 Working with Python, SQL, Pandas, NumPy, and other data tools.
-- 🔍 Love exploring datasets, uncovering patterns, and solving real-world problems.
-- 🌱 Currently strengthening my knowledge of Machine Learning and DSA.
-- 💡 Interested in building practical projects that combine data and technology.
-- 🎯 Aspiring to build a career in Data Analytics and AI/ML.
-
----
-
-<!-- ===================== TECH STACK ===================== -->
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,sql" />
-</p>
-
-### Data Analytics & Visualization
-<p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
-  <img src="https://img.shields.io/badge/Power%20BI-F1C912?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
-
-### Web Scraping & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter,mysql" />
-</p>
-
----
-
-<!-- ===================== GITHUB STATS ===================== -->
-
 ## 📈 GitHub Statistics
 
 <p align="center">
