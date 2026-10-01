@@ -30,14 +30,6 @@
 
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harshit00052/harshit00052/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 <!-- ===================== CONNECT ===================== -->
 
 ## 🤝 Let's Connect
