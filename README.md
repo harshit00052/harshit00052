@@ -90,10 +90,10 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://linkedin.com/in/harshit-kumar-406989323">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:harshitkumar7299@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/harshit00052">
